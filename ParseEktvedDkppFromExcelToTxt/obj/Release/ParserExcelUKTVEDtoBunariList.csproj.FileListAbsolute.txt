@@ -1,0 +1,7 @@
+d:\teliatnyck\documents\visual studio 2012\Projects\ParserExcelUKTVEDtoBunariList\ParserExcelUKTVEDtoBunariList\bin\Release\ParserExcelUKTVEDtoBunariList.exe.config
+d:\teliatnyck\documents\visual studio 2012\Projects\ParserExcelUKTVEDtoBunariList\ParserExcelUKTVEDtoBunariList\bin\Release\ParserExcelUKTVEDtoBunariList.exe
+d:\teliatnyck\documents\visual studio 2012\Projects\ParserExcelUKTVEDtoBunariList\ParserExcelUKTVEDtoBunariList\bin\Release\ParserExcelUKTVEDtoBunariList.pdb
+d:\teliatnyck\documents\visual studio 2012\Projects\ParserExcelUKTVEDtoBunariList\ParserExcelUKTVEDtoBunariList\bin\Release\SpreadsheetGear.dll
+d:\teliatnyck\documents\visual studio 2012\Projects\ParserExcelUKTVEDtoBunariList\ParserExcelUKTVEDtoBunariList\obj\Release\ParserExcelUKTVEDtoBunariList.csprojResolveAssemblyReference.cache
+d:\teliatnyck\documents\visual studio 2012\Projects\ParserExcelUKTVEDtoBunariList\ParserExcelUKTVEDtoBunariList\obj\Release\ParserExcelUKTVEDtoBunariList.exe
+d:\teliatnyck\documents\visual studio 2012\Projects\ParserExcelUKTVEDtoBunariList\ParserExcelUKTVEDtoBunariList\obj\Release\ParserExcelUKTVEDtoBunariList.pdb
